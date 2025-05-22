@@ -54,6 +54,7 @@ jspm_packages/
 
 # Frontend build output
 Frontend/battleship-frontend/build/
+!Frontend/battleship-frontend/build/
 
 # Backend build output
 target/
